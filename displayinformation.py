@@ -1,0 +1,1 @@
+print ("Nguyen Trung Thuan\n20/10/1998\nBinh Giang Hai Duong")
